@@ -1,0 +1,34 @@
+.header {
+
+  background-color: black;
+  display:flex;
+  justify-content: space-between;
+  
+  height: 50px;
+  width: 480px;
+  
+ 
+}
+
+.prueba{
+
+  background-color: (49, 113, 233);
+
+ 
+
+}
+
+.botones {
+
+    color: white;
+    display: none;
+}
+
+.logo{
+
+  width:200px;
+}
+.menu{
+  height: 50px;
+  width: 480px;
+}
